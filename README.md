@@ -95,7 +95,7 @@ You can also explore the **Arduino IDE integration and KiwisIoT Arduino library*
 
 **Website:** https://www.kiwisiot.in/
 
-**Example Projects:** https://github.com/Kiwistron/KiwisIoT-Projects/tree/main
+**Example Projects:** https://github.com/Kiwistron/KiwisIoT-Projects
 
 Explore the Arduino IDE and KiwisIoT library to start building your own connected projects!
 
